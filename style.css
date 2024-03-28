@@ -68,7 +68,10 @@ justify-content: center;
 
 @media (max-width:800px) {
     
- 
+     .logo{
+        height: 50px;
+        width: 50px;
+    }
    .nifty{
     margin-top: 22%;
    }
