@@ -172,6 +172,7 @@ ul  {
         width: 55px;
     }
     .nav {
+         border-radius: 20px;
         height: 80px;
       padding: 1rem;
       background:#b33030a1;
