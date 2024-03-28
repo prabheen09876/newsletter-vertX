@@ -68,10 +68,7 @@ justify-content: center;
 
 @media (max-width:800px) {
     
-     .logo{
-        height: 50px;
-        width: 50px;
-    }
+ 
    .nifty{
     margin-top: 22%;
    }
@@ -168,7 +165,12 @@ ul  {
       display: none;
   }
   @media (max-width: 600px) {
+    .logo{
+        height: 55px;
+        width: 55px;
+    }
     .nav {
+        height: 80px;
       padding: 1rem;
       background:#b33030a1;
     }
